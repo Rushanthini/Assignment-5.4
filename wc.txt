@@ -1,0 +1,7 @@
+this,1
+is,2
+a,3
+assign,4
+ment,5
+by,6
+praga,7
